@@ -17,8 +17,6 @@
     <text x="98" y="261">     | | '--' | |</text>
     <text x="98" y="290">      \ '----' /</text>
     <text x="98" y="319">       '------'</text>
-    <text x="98" y="371">    personal agent</text>
-    <text x="98" y="400">      in progress</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
@@ -28,7 +26,7 @@
     <text x="478" y="192" fill="#9a6700" font-size="16">Age</text>
     <text x="658" y="192" fill="#24292f" font-size="16">22</text>
     <text x="478" y="220" fill="#9a6700" font-size="16">Focus</text>
-    <text x="658" y="220" fill="#24292f" font-size="16">Personal agents and local-first tools</text>
+    <text x="658" y="220" fill="#24292f" font-size="16">Systems, automation, applied AI</text>
     <text x="478" y="248" fill="#9a6700" font-size="16">Desktop</text>
     <text x="658" y="248" fill="#24292f" font-size="16">Windows 11</text>
     <text x="478" y="276" fill="#9a6700" font-size="16">Laptop</text>
