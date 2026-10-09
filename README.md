@@ -22,23 +22,6 @@ real work without taking control away from the person using them.
 ## Start Here
 
 - 🟢 **[Neo](https://github.com/0xNived/Neo)** — a private, local-first personal agent workspace
-- 🎬 **[NivFlow](https://github.com/0xNived/nivflow)** — turn ideas into video content automatically
-- 💬 **[Discord command experiment](https://github.com/0xNived/OPENSOURCECODE)** — a small Discord slash-command project
-
-## Current Projects
-
-### Personal Agent Systems
-
-- 🟢 **[Neo](https://github.com/0xNived/Neo)** — chat, memory, reminders, Organizer, research, and approval-gated actions in one personal workspace
-- 🧠 **Neo integrations** — Discord bot, Telegram account search, web research, and future email/MCP capabilities with clear permission boundaries
-
-### Creative Tools
-
-- 🎬 **[NivFlow](https://github.com/0xNived/nivflow)** — automatic video creation from ideas
-
-### Experiments
-
-- 💬 **[OPENSOURCECODE](https://github.com/0xNived/OPENSOURCECODE)** — Discord command exploration
 
 ## Setup
 
@@ -47,13 +30,15 @@ real work without taking control away from the person using them.
 - 💬 **Discord:** [@0xnived](https://discord.com/users/0xnived)
 - ✉️ **Work:** nived.dev@w
 
-## Building Principles
+## How I build
 
 ~~~text
-simple beats clever
-private by default
-automation needs visibility
-good UX is part of the engineering
+idea
+  -> build a small working version
+  -> use it myself
+  -> remove what is unnecessary
+  -> make the useful part reliable
+  -> ship and improve
 ~~~
 
 ## Connect
