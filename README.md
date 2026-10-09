@@ -1,61 +1,53 @@
-<div align="center">
+<a href="https://github.com/0xNived">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNived/0xNived/main/dark_mode.svg">
+    <img alt="Nived's developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/light_mode.svg">
+  </picture>
+</a>
 
-<pre>
-┌──────────────────────────────────────────────────┐
-│  nived@workstation:~$ whoami                      │
-│  Nived · 22 · builder of useful personal software │
-└──────────────────────────────────────────────────┘
-</pre>
+# Hi, I'm Nived 👋
 
-# Hey, I'm Nived 👋
+🎂 **22** | 🤖 **Personal-agent builder** | 🛠️ **JavaScript, TypeScript, Go, Python**
 
-I build practical software, explore agent systems, and care about making tools feel fast,
-private, and genuinely useful.
+I build practical, local-first software: tools that feel personal, stay understandable, and do
+real work without taking control away from the person using them.
 
-[![Discord](https://img.shields.io/badge/Discord-%400xnived-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0xnived)
-![Windows 11](https://img.shields.io/badge/Desktop-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Laptop-Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
 
-</div>
+## Start Here
 
-## About
+- 🟢 **[Neo](https://github.com/0xNived/Neo)** — a private, local-first personal agent workspace
+- 🎬 **[NivFlow](https://github.com/0xNived/nivflow)** — turn ideas into video content automatically
+- 💬 **[Discord command experiment](https://github.com/0xNived/OPENSOURCECODE)** — a small Discord slash-command project
 
-- 🎂 **22 years old**
-- 🧠 Interested in personal agents, local-first tools, and reliable automation
-- 💻 Building mainly with **JavaScript, TypeScript, Go, and Python**
-- 🖥️ Daily setup: **Windows 11 desktop** + **Linux Mint laptop**
-- 💬 Discord: **@0xnived**
-- ✉️ Work: **nived.dev@w**
+## Current Projects
 
-## Current project
+### Personal Agent Systems
 
-### 🟢 [Neo](https://github.com/0xNived/Neo)
+- 🟢 **[Neo](https://github.com/0xNived/Neo)** — chat, memory, reminders, Organizer, research, and approval-gated actions in one personal workspace
+- 🧠 **Neo integrations** — Discord bot, Telegram account search, web research, and future email/MCP capabilities with clear permission boundaries
 
-Neo is a private, local-first personal agent workspace for chat, memory, reminders, research,
-notes, links, and tasks. It is designed to be useful without becoming a black box: actions stay
-visible, sensitive writes need approval, and your workspace remains yours.
+### Creative Tools
 
-**What I am building into Neo**
+- 🎬 **[NivFlow](https://github.com/0xNived/nivflow)** — automatic video creation from ideas
 
-- 🗂️ Organizer for notes, bookmarks, links, tasks, and diary entries
-- 🧠 Durable memory and relevant recall
-- ⏰ Reminders and background work
-- 🔎 Search, link enrichment, and optional local embeddings
-- 🎙️ Voice interaction
-- 🔌 Discord, Telegram, email, and MCP-style integrations with clear permission boundaries
+### Experiments
 
-## Stack
+- 💬 **[OPENSOURCECODE](https://github.com/0xNived/OPENSOURCECODE)** — Discord command exploration
 
-<div align="center">
+## Setup
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+- 🖥️ **Desktop:** Windows 11
+- 💻 **Laptop:** Linux Mint
+- 💬 **Discord:** [@0xnived](https://discord.com/users/0xnived)
+- ✉️ **Work:** nived.dev@w
 
-</div>
-
-## Building principles
+## Building Principles
 
 ~~~text
 simple beats clever
@@ -64,10 +56,11 @@ automation needs visibility
 good UX is part of the engineering
 ~~~
 
+## Connect
+
+[![Discord](https://img.shields.io/badge/-@0xnived-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0xnived)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xNived)
+
 ---
 
-<div align="center">
-
-Currently shipping Neo, one useful capability at a time.
-
-</div>
+Currently building Neo, one useful capability at a time.
