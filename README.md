@@ -1,7 +1,7 @@
 <a href="https://github.com/0xNived">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNived/0xNived/main/dark_mode.svg">
-    <img alt="Nived's developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNived/0xNived/main/dark_mode.svg?v=0ea8a2d">
+    <img alt="Nived's developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/light_mode.svg?v=0ea8a2d">
   </picture>
 </a>
 
