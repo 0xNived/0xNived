@@ -16,7 +16,7 @@ working product.
 
 ## Start Here
 
-- 🟢**[Neo](https://github.com/0xNived/Neo)** — a private, local-first personal agent for chat,
+- 🟢 **[Neo](https://github.com/0xNived/Neo)** — a private, local-first personal agent for chat,
   memory, reminders, web research, and approval-gated automation
 
 ## How I build
