@@ -1,3 +1,7 @@
+<a href="https://github.com/0xNived">
+  <img alt="Nived's Ubuntu terminal developer profile" src="./banner.png">
+</a>
+
 # Hi, I'm Nived 👋
 
 I build useful automation for real problems, focusing on system design, scalable backends, and
