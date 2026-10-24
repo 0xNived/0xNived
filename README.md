@@ -7,12 +7,8 @@
 
 # Hi, I'm Nived 👋
 
-I like building automation around real problems. I am especially interested in system design,
-scalable backends, and AI harnesses/orchestration: finding a useful problem, designing the system,
-and turning the idea into something people can actually use.
-
-I am also interested in entrepreneurship and enjoy building from a rough idea through to a
-working product.
+I build useful automation for real problems, focusing on system design, scalable backends, and
+practical AI. I enjoy entrepreneurship and turning rough ideas into products people can use.
 
 ## Start Here
 
