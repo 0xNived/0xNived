@@ -3,10 +3,10 @@
   <desc id="desc">A clean GNOME Terminal window showing Ubuntu Fastfetch-style ASCII art and developer information.</desc>
 
   <rect width="1100" height="460" rx="12" fill="#0d1117"/>
-  <rect x="12" y="12" width="1076" height="436" rx="10" fill="#300a24" stroke="#51464f"/>
+  <rect x="12" y="12" width="1076" height="436" rx="10" fill="#0d1117" stroke="#30363d"/>
 
-  <path d="M22 12h1056a10 10 0 0 1 10 10v34H12V22a10 10 0 0 1 10-10z" fill="#2c282c"/>
-  <line x1="12" y1="56" x2="1088" y2="56" stroke="#51464f"/>
+  <path d="M22 12h1056a10 10 0 0 1 10 10v34H12V22a10 10 0 0 1 10-10z" fill="#161b22"/>
+  <line x1="12" y1="56" x2="1088" y2="56" stroke="#30363d"/>
   <text x="550" y="40" fill="#ece7eb" font-family="Ubuntu, system-ui, sans-serif" font-size="14" text-anchor="middle">nived@desktop: ~</text>
 
   <g stroke="#d6d1d5" stroke-width="1.5" stroke-linecap="round" fill="none">
