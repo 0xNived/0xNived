@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+  <title id="title">Nived Ubuntu terminal profile</title>
+  <desc id="desc">A clean GNOME Terminal window showing Ubuntu Fastfetch-style ASCII art and developer information.</desc>
+
+  <rect width="1100" height="460" rx="12" fill="#1b181b"/>
+  <rect x="12" y="12" width="1076" height="436" rx="10" fill="#300a24" stroke="#51464f"/>
+
+  <path d="M22 12h1056a10 10 0 0 1 10 10v34H12V22a10 10 0 0 1 10-10z" fill="#2c282c"/>
+  <line x1="12" y1="56" x2="1088" y2="56" stroke="#51464f"/>
+  <text x="550" y="40" fill="#ece7eb" font-family="Ubuntu, system-ui, sans-serif" font-size="14" text-anchor="middle">nived@desktop: ~</text>
+
+  <g stroke="#d6d1d5" stroke-width="1.5" stroke-linecap="round" fill="none">
+    <line x1="1023" y1="34" x2="1033" y2="34"/>
+    <rect x="1047" y="29" width="9" height="9" rx="1"/>
+    <line x1="1070" y1="29" x2="1079" y2="38"/>
+    <line x1="1079" y1="29" x2="1070" y2="38"/>
+  </g>
+
+  <g font-family="'Ubuntu Mono', 'Cascadia Mono', 'DejaVu Sans Mono', Consolas, monospace" font-size="14">
+    <text x="38" y="82" fill="#8ae234">nived@desktop</text>
+    <text x="155" y="82" fill="#f2f2f2">:</text>
+    <text x="166" y="82" fill="#729fcf">~</text>
+    <text x="178" y="82" fill="#f2f2f2">$ fastfetch</text>
+  </g>
+
+  <text xml:space="preserve" fill="#e95420" font-family="'Ubuntu Mono', 'Cascadia Mono', 'DejaVu Sans Mono', Consolas, monospace" font-size="13.5" font-weight="700">
+    <tspan x="38" y="110">                             ....</tspan>
+    <tspan x="38" dy="15.5">              .',:clooo:  .:looooo:.</tspan>
+    <tspan x="38" dy="15.5">           .;looooooooc  .oooooooooo'</tspan>
+    <tspan x="38" dy="15.5">        .;looooool:,''.  :ooooooooooc</tspan>
+    <tspan x="38" dy="15.5">       ;looool;.         'oooooooooo,</tspan>
+    <tspan x="38" dy="15.5">      ;clool'             .cooooooc.  ,,</tspan>
+    <tspan x="38" dy="15.5">         ...                ......  .:oo,</tspan>
+    <tspan x="38" dy="15.5">  .;clol:,.                        .loooo'</tspan>
+    <tspan x="38" dy="15.5"> :ooooooooo,                        'ooool</tspan>
+    <tspan x="38" dy="15.5">'ooooooooooo.                        loooo.</tspan>
+    <tspan x="38" dy="15.5">'ooooooooool                         coooo.</tspan>
+    <tspan x="38" dy="15.5"> ,loooooooc.                        .loooo.</tspan>
+    <tspan x="38" dy="15.5">   .,;;;'.                          ;ooooc</tspan>
+    <tspan x="38" dy="15.5">       ...                         ,ooool.</tspan>
+    <tspan x="38" dy="15.5">    .cooooc.              ..',,'.  .cooo.</tspan>
+    <tspan x="38" dy="15.5">      ;ooooo:.           ;oooooooc.  :l.</tspan>
+    <tspan x="38" dy="15.5">       .coooooc,..      coooooooooo.</tspan>
+    <tspan x="38" dy="15.5">         .:ooooooolc:. .ooooooooooo'</tspan>
+    <tspan x="38" dy="15.5">           .':loooooo;  ,oooooooooc</tspan>
+    <tspan x="38" dy="15.5">               ..';::c'  .;loooo:'</tspan>
+  </text>
+
+  <g font-family="'Ubuntu Mono', 'Cascadia Mono', 'DejaVu Sans Mono', Consolas, monospace">
+    <text x="514" y="112" fill="#f2f2f2" font-size="18" font-weight="700">nived@desktop</text>
+    <text x="514" y="133" fill="#c7bcc4" font-size="13">------------------------------------------</text>
+
+    <text x="514" y="166" fill="#e95420" font-size="14" font-weight="700">OS</text>
+    <text x="650" y="166" fill="#f2f2f2" font-size="14">Ubuntu Linux</text>
+    <text x="514" y="192" fill="#e95420" font-size="14" font-weight="700">DE</text>
+    <text x="650" y="192" fill="#f2f2f2" font-size="14">GNOME</text>
+    <text x="514" y="218" fill="#e95420" font-size="14" font-weight="700">Kernel</text>
+    <text x="650" y="218" fill="#f2f2f2" font-size="14">Linux x86_64</text>
+    <text x="514" y="244" fill="#e95420" font-size="14" font-weight="700">Shell</text>
+    <text x="650" y="244" fill="#f2f2f2" font-size="14">bash</text>
+    <text x="514" y="270" fill="#e95420" font-size="14" font-weight="700">Terminal</text>
+    <text x="650" y="270" fill="#f2f2f2" font-size="14">GNOME Terminal</text>
+
+    <text x="514" y="303" fill="#c7bcc4" font-size="13">------------------------------------------</text>
+    <text x="514" y="336" fill="#e95420" font-size="14" font-weight="700">Languages</text>
+    <text x="650" y="336" fill="#f2f2f2" font-size="14">JavaScript · TypeScript · Go · Python</text>
+    <text x="514" y="362" fill="#e95420" font-size="14" font-weight="700">Focus</text>
+    <text x="650" y="362" fill="#f2f2f2" font-size="14">systems · automation · practical AI</text>
+    <text x="514" y="388" fill="#e95420" font-size="14" font-weight="700">Building</text>
+    <text x="650" y="388" fill="#f2f2f2" font-size="14">Neo · Onion Bot · ForgeInHouse</text>
+
+    <rect x="514" y="411" width="22" height="12" rx="1" fill="#2e3436"/>
+    <rect x="542" y="411" width="22" height="12" rx="1" fill="#cc0000"/>
+    <rect x="570" y="411" width="22" height="12" rx="1" fill="#4e9a06"/>
+    <rect x="598" y="411" width="22" height="12" rx="1" fill="#c4a000"/>
+    <rect x="626" y="411" width="22" height="12" rx="1" fill="#3465a4"/>
+    <rect x="654" y="411" width="22" height="12" rx="1" fill="#75507b"/>
+    <rect x="682" y="411" width="22" height="12" rx="1" fill="#06989a"/>
+    <rect x="710" y="411" width="22" height="12" rx="1" fill="#d3d7cf"/>
+  </g>
+</svg>
