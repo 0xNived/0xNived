@@ -1,7 +1,7 @@
 <a href="https://github.com/0xNived">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNived/0xNived/main/dark_mode.svg?v=0ea8a2d">
-    <img alt="Nived's developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/light_mode.svg?v=0ea8a2d">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNived/0xNived/main/dark_mode.svg?v=ubuntu-fastfetch-2026">
+    <img alt="Nived's Ubuntu terminal developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/light_mode.svg?v=ubuntu-fastfetch-2026">
   </picture>
 </a>
 
