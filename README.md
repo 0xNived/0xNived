@@ -16,9 +16,9 @@ working product.
 
 ## Start Here
 
-- **[Neo](https://github.com/0xNived/Neo)** — Local-first AI assistant with memory and safe automation.
-- **[Onion Bot](https://github.com/0xNived/Onion-Bot)** — Discord moderation and server security.
-- **ForgeInHouse** *(private)* — A 2D tile-world sandbox with a day/night cycle.
+- 🧠 **[Neo](https://github.com/0xNived/Neo)** — Local-first AI assistant for memory and safe automation.
+- 🛡️ **[Onion Bot](https://github.com/0xNived/Onion-Bot)** — Discord moderation and server protection.
+- 🌍 **ForgeInHouse** *(private)* — 2D tile-world sandbox with a day/night cycle.
 
 ## How I build
 
