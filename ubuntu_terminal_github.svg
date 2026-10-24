@@ -2,7 +2,7 @@
   <title id="title">Nived Ubuntu terminal profile</title>
   <desc id="desc">A clean GNOME Terminal window showing Ubuntu Fastfetch-style ASCII art and developer information.</desc>
 
-  <rect width="1100" height="460" rx="12" fill="#1b181b"/>
+  <rect width="1100" height="460" rx="12" fill="#0d1117"/>
   <rect x="12" y="12" width="1076" height="436" rx="10" fill="#300a24" stroke="#51464f"/>
 
   <path d="M22 12h1056a10 10 0 0 1 10 10v34H12V22a10 10 0 0 1 10-10z" fill="#2c282c"/>

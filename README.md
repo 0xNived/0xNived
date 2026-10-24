@@ -1,5 +1,5 @@
 <a href="https://github.com/0xNived">
-  <img alt="Nived's Ubuntu terminal developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/ubuntu_terminal_clean.svg">
+  <img alt="Nived's Ubuntu terminal developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/ubuntu_terminal_github.svg">
 </a>
 
 # Hi, I'm Nived 👋
