@@ -1,7 +1,3 @@
-<a href="https://github.com/0xNived">
-  <img alt="Nived's Ubuntu terminal developer profile" src="https://raw.githubusercontent.com/0xNived/0xNived/main/ubuntu_terminal_github_dark.svg">
-</a>
-
 # Hi, I'm Nived 👋
 
 I build useful automation for real problems, focusing on system design, scalable backends, and
@@ -20,17 +16,6 @@ practical AI. I enjoy entrepreneurship and turning rough ideas into products peo
 - 🧠 **[Neo](https://github.com/0xNived/Neo)** — Local-first AI assistant for memory and safe automation.
 - 🛡️ **[Onion Bot](https://github.com/0xNived/Onion-Bot)** — Discord moderation and server protection.
 - 🌍 **ForgeInHouse** *(private)* — 2D tile-world sandbox with a day/night cycle.
-
-## How I build
-
-~~~text
-idea
-  -> build a small working version
-  -> use it myself
-  -> remove what is unnecessary
-  -> make the useful part reliable
-  -> ship and improve
-~~~
 
 ## Connect
 
